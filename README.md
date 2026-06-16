@@ -4,6 +4,9 @@ A relational database for a vinyl record distribution company, built to support 
 
 *Group project for MIST 4610 at UGA Terry. I led the data model design and wrote the SQL queries. The schema and queries here were reconstructed from the original ER diagram, data dictionary, and query output, since the live database ran on a university server I no longer have access to. Attribution note at the bottom.*
 
+<img width="1968" height="1880" alt="image" src="https://github.com/user-attachments/assets/e35599ac-57ac-4147-9461-cb84d904b258" />
+
+
 ---
 
 ## Business context
