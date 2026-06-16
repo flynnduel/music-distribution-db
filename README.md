@@ -78,11 +78,17 @@ Each query answers a management question, not a textbook prompt.
 
 Three visualizations complemented the SQL layer:
 
+
+
 <img width="1472" height="436" alt="image" src="https://github.com/user-attachments/assets/b9eda19a-0954-4acd-9a10-7af6bb698d3a" />
 Top 5 genres by average revenue per order, where the point is that average order value and total volume tell two different stories.
 
+
+
 <img width="1498" height="1160" alt="image" src="https://github.com/user-attachments/assets/cff55bd5-1d7e-42d2-95ab-b2bbe0572ec9" />
 Customer spend ranking by total purchase history, the starting point for picking out high-value accounts.
+
+
 
 <img width="1336" height="874" alt="image" src="https://github.com/user-attachments/assets/76eaef4d-75ac-4e8b-a7c4-85366b91224b" />
 Units sold by year. The trend line is the whole point: flat or declining sales across several years is the signal that something has to change.
